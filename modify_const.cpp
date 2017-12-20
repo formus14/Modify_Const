@@ -1,4 +1,3 @@
-cin.get();
 #include <iostream>
 
 using namespace std;
