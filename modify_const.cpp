@@ -1,3 +1,4 @@
+cin.get();
 #include <iostream>
 
 using namespace std;
@@ -20,6 +21,6 @@ cout << "Value of b which is reference to a :" << b << endl;
 
 int c = a;
 cout << "Valu of C - equal to value of a : " << c << endl;
-system("pause");
+cin.get();
 return 0;
 }
